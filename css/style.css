@@ -1,0 +1,325 @@
+@font-face {
+    font-family:proxima;
+    src: url(fonts/Proxima\ Nova\ Font.otf);
+}
+
+@font-face {
+    font-family: anonymous;
+    src: url(fonts/Anonymous_Pro.ttf);
+}
+
+@font-face {
+    font-family: anonymousbold;
+    src: url(fonts/Anonymous_Pro_B.ttf);
+}
+
+
+header{
+    position:fixed;
+    top:0;
+    width:100%;
+    background-color: #f0f2eb;
+}
+
+body{
+    background-color:#f0f2eb;
+}
+
+.header-logo{
+    width:7.5em;
+    margin-left:7rem;
+    margin-top:2rem;
+}
+
+.navbar-nav{
+    margin-top:1.25rem;
+    margin-left:auto;
+    width:25rem;
+    justify-content: space-between;
+    margin-right:3.25rem;
+}
+
+.nav-link{
+    font-weight: bold;
+    font-family: proxima;
+}
+
+button{
+    font-family: anonymousbold;
+}
+
+.btn:hover{
+    opacity: 0.75;
+}
+
+.Introduction{
+    margin-top:11rem;
+}
+
+.intro-img{
+    border-radius:20px;
+}
+
+.intro-test-head{
+    font-family:anonymousbold;
+    font-weight:700px;
+    color: #383838;
+    line-height: 4rem;;
+}
+
+.intro-test-body{
+    font-family: proxima;
+    color: #383838;
+    line-height:2.25rem;
+}
+
+.the-kawa-approach{
+    color:#7A73FF;
+    font-family: anonymousbold;
+}
+
+.kawa-head-1{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.kawa-head-2{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.kawa-body{
+    font-family: proxima;
+    color: #383838;
+}
+
+.UV{
+    margin-top:7.5rem;
+}
+
+.UV-img{
+    padding-top:7.25rem;
+    
+    
+}
+
+#UV-img{
+    border-radius: 20px;
+    align-items: flex-end;
+}
+
+.satellite{
+    margin-top:2.5rem;
+}
+
+#satellite-img{
+    border-radius:20px;
+}
+
+.satellite-head{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.satellite-body{
+    font-family: proxima;
+    color: #383838;
+}
+
+.code{
+    margin-top:4rem;
+}
+
+.code-img{
+    padding-top:3rem;
+}
+
+.code-head{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.code-body{
+    font-family: proxima;
+    color: #383838;
+}
+
+#code-img{
+    border-radius:20px;
+}
+
+.industries{
+    color:#7A73FF;
+    font-family: anonymousbold;
+}
+
+.industries-head{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.industries-body{
+    font-family: proxima;
+    color: #383838;
+    line-height:2.25rem;
+}
+
+.box-head{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.box-body{
+    font-family: proxima;
+    font-size: 0.85rem;
+    color: #383838;
+}
+
+.why-us{
+    margin-top:5rem;
+}
+
+.why-us-text{
+    color:#7A73FF;
+    font-family: anonymousbold;
+    font-size: 1.5rem;
+}
+
+.why-us-head{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.why-us-body{
+    font-family: proxima;
+    color: #383838;
+    line-height:2rem;
+}
+
+.why-us-img{
+    padding-top:3.5rem;
+}
+
+#why-us-img{
+    border-radius: 20px;
+}
+
+.industries{
+    margin-top:5rem;
+}
+
+.kawa{
+    margin-top:7rem;
+}
+
+.kawa-blogs{
+    color:#7A73FF;
+    font-family: anonymousbold;
+}
+
+.kawa-blogs-text{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.blog-number{
+    color:#FD3995;
+    font-family: proxima;
+    font-weight: bold;
+}
+
+.blog-head{
+    font-family:anonymousbold;
+    color: #383838;
+}
+
+.blog-body{
+    font-family:proxima;
+    color: #383838;
+}
+
+.read-more{
+    text-decoration: none;
+    font-family: anonymousbold;
+}
+
+.talk-to-us{
+    margin-top:5rem;
+}
+
+.talk-to-us-text{
+    color:#7A73FF;
+    font-family: anonymousbold;
+
+}
+
+.talk-to-us-head{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.talk-to-us-body{
+    font-family: proxima;
+    color: #383838;
+}
+
+footer{
+    margin-top:5rem;
+}
+
+.footer-head{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.footer-body-1{
+    font-family: proxima;
+    color: #383838;
+}
+
+.footer-body-2{
+    font-family: proxima;
+    font-weight: 700;
+    color:#FD3995;
+}
+
+.footer-side{
+    display:flex;;
+}
+
+.product{
+    text-align:end;
+    margin-left: 40%;
+}
+
+.product-head{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.product-body{
+    font-family: proxima;
+}
+
+.company{
+    margin-left:auto;
+    text-align:end;
+}
+
+.company-head{
+    font-family: anonymousbold;
+    color: #383838;
+}
+
+.company-body{
+    font-family: proxima;
+}
+
+a{
+    color:#FD3995;
+}
+
+i{
+    font-size:1.75rem;
+    color:#FD3995;
+}
