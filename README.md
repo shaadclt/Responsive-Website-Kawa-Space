@@ -1,6 +1,6 @@
-# Kawa Space Responsive Website Clone
+ # Kawa Space Responsive Website Clone
 
-Welcome to the Kawa Space Responsive Website Clone repository! This project aims to recreate the responsive design of the Kawa Space website. 
+This project aims to recreate the responsive design of the Kawa Space website. 
 
 This repository contains the code and assets necessary to replicate the responsive behavior of the Kawa Space website. By cloning this project, you can explore and understand how responsive web design techniques were implemented to ensure an optimal user experience across different devices and screen sizes.
 
